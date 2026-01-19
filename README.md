@@ -1,7 +1,3 @@
-# Tauri + React
+# quicknote View - a small Tauri app for viewing abd searching the output of quicknotes
 
-This template should help get you started developing with Tauri and React in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Reference the quicknotes repository here: [quicknotes - GitHub](https://github.com/SkylerSG/quicknote)
